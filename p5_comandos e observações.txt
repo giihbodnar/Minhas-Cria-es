@@ -1,0 +1,34 @@
+Apesar do número enorme de vagas, as empresas costumam desconfiar um pouco de quem não tem formação na área e ao mesmo tempo não tem experiência comprovada. O ideal é encontrar um espaço para que você possa armazenar seus testes e experiências, criando um pequeno portfolio do que você conhece e já sabe fazer, mostrando também sua dedicação. O Codepen.io possibilita que você faça isso para as tecnologias conhecidas como front-end.
+
+Artigo sobre organizar portfolio - https://www.alura.com.br/artigos/organizando-estudos-portfolio-notion-linkedin.
+
+
+*p5.js*
+
+https://editor.p5js.org/;
+
+Para buscarmos pelos códigos necessários, clicaremos em "Help & Feedback" e em "Reference";
+
+'let' ou 'var' - variável;
+widht - largura;
+height - altura;
+if - se;
+&& - e;
+|| - ou;
+// - comentário;
+text - texto;
+fill - coloração (quanto maior o numero, mais branco);
+textSize - tamanho da fonte;
+cores rgb - codigo de cores;
+stroke - contorno;
+loadSound - adicionar som;
+loadImage - adicionar imagem;
+???.play - iniciar musica;
+???.loop - cria loop da musica;
+length - saber qnts itens tem dentro da lista 
+
+listas com []
+para colocar algo, sempre utilizar 'function preload()';
+no p5 intendesse que o centro do raio que é a tocagem na borda, então precisamos diminuir ou aumentar o raio nos "if";
+usar "function" para organizar as funções, e adicionar as funções criadas no "function draw";
+

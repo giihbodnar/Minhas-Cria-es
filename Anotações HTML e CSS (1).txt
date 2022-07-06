@@ -1,0 +1,62 @@
+HTML E CSS
+
+*index.html pagina padrão.
+*o .html diz que o arquivo é uma pagina na web
+*para formatar o texto utilizados tags, que são usadas com <tag>
+*Informar sempre a lingua dentro da tag do html. ex: <html lang="pt-br">
+*Linguagem unicode para caracteres especiais
+
+TAGS ESTRUTURAIS
+<!DOCTYPE html> - informa que estamos utilizando a ultima versão do html
+<html> - fecha no fim do arquivo
+<meta charset="utf-8"> - escolha de dicionario, "utf-8"
+<title> - muda o nome da pagina na web
+<head> - colocar os comandos 
+<body> - colocar as coisas para aparecerem na tela
+
+TAGS
+<h(1-6)> - titulo
+<p> - paragrafo
+<strong> - negrito
+<em> - itálico
+<title> - muda o nome da pagina na web
+<img src=""> - colocar imagem
+<ol> - lista ordenada
+<ul> - lista n ordenada
+<li> - adicionar na lista
+<div> - divisão
+<header> - divisão cabeçalho
+<main> - divisão conteudo principal
+<footer> - divisão rodapé
+<a href=""> - linkar uma palavra
+<nav> - tag para navegação
+
+CSS-
+<link rel="stylesheet" href=""> - para anexar o arquivo externo ao html
+*utilizar dentro da tag anbterior para ser utilizado em todo o texto
+style:
+font-size - tamanho da fonte
+font-style - estilo da fonte
+*font-weight - peso da fonte
+bold - negrito*
+*text-transform - trasnforma o texto
+uppercase - maiuscula*
+color - cor da fonte
+text-align - formatação do texto (center, right, left)
+vertical-align - para mudar a verticalização do texto
+background - fundo do elemento
+cod hexadecimal - 0123456789ABCDEF (RGB)
+height - altura
+width - largura
+paddig - espaçamento interno da borda
+border - borda
+margin - margem
+id="" - nomear tag (utiliza # no css)
+class= "" - criar classe (pode repetir, e chama com .)
+position - posição (relative, static, absolute)
+*border-style - estilo da borda
+dotted - pontilhado
+solid - reto
+dashed - tracejado*
+border-radius - borda arredondada
+:hover - quando passar o mouse
