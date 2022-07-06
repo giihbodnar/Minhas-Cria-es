@@ -1,0 +1,93 @@
+#tudo {
+	background: #FFFFFF;
+	font-size: 20px;
+	text-align: center;
+}
+
+#banner{
+	width: 100%;
+}
+
+
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+
+.caixa{
+	width: 1200px;
+	position: relative;
+	margin: 0 auto;
+}
+
+nav{
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 40px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: purple;
+	text-decoration: underline;
+}
+
+#principal {
+	background: #CCCCCC;
+	padding: 20px;
+}
+
+em strong {
+	color: red;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	font-size: 40px;
+	text-align: center; 
+	background: #FFFFFF;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.beneficios {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+	margin-top: 20px;
+}
+
+.items{
+	font-style: italic; 
+	text-align: left;
+	font-size: 30px;
+}
+
+#banner2{
+	margin-top: 20px;
+	width: 50%;
+}
+
+#beneficios {
+	padding: 15px;
+}
+
